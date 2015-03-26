@@ -13,12 +13,12 @@
 
 ### 2 Test app
 
-    gagarin -t 5000
+    gagarin -t 3000
 
 
-        ➜  pure git:(master) ✗ gagarin -t 5000
+        ➜  gagarin-example-the-simplest-one git:(master) ✗ gagarin -t 3000
 
-          --- building app => /Users/me/projects/laboratory/meteor/gagarin/pure ---
+          --- building app => /Users/me/projects/gagarin/gagarin-example-the-simplest-one ---
 
 
           done building ...
@@ -36,13 +36,12 @@
 
 ### Too short timeout
 
-        ➜  pure git:(master) ✗ gagarin
+        ➜  gagarin-example-the-simplest-one git:(master) ✗ gagarin
 
-          --- building app => /Users/me/projects/laboratory/meteor/gagarin/pure ---
+          --- building app => /Users/me/projects/gagarin/gagarin-example-the-simplest-one ---
 
 
           done building ...
-
 
 
           Example test suite
